@@ -8,7 +8,7 @@ I've included screenshots so you can see what it does. At the moment I have it o
 
 In my case, I enter each text observation in a shorthand format of my own design which is later expanded and translated on my computer with R scripts ODBC-connected to a Filemaker database on my computer (which I call WildCounts Hoard). I've used this set-up to log many hundreds of thousands of observations, including on my bike with the app on my iPhone connected to a bluetooth microphone on my bike helmet.
 
-Note that you can add a separate app icon to your iPhone home screen using Apple's free Configurator app from the Mac App Store. Include the path "FMP://%7E/Watcher" add an icon, copy the resulting mobileconfig file to your iPhone and you'll be able to click on the icon to open Watcher via Safari.
+Note that you can add a separate app icon to your iPhone home screen using Apple's free Configurator app from the Mac App Store. Include the path "FMP://%7E/WildCounts" add an icon, copy the resulting mobileconfig file to your iPhone and you'll be able to click on the icon to open WildCounts via Safari.
 
 # KNOWN ISSUES
 
